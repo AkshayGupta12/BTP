@@ -6,8 +6,8 @@ This repo contains the work done as part of the B.Tech project.
 3. Run "conda install nltk" command
 4. Open the python console by typing "python" in the command prompt
 5. In the python console run the following code
-	5.1 import nltk
-	5.2 nltk.download('punkt')
+	* import nltk
+	* nltk.download('punkt')
 6. Exit the python console by running "exit()" command
 
 ## RUNNING PROGRAM
