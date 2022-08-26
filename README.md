@@ -10,6 +10,6 @@ This repo contains the work done as part of the B.Tech project.
 	* nltk.download('punkt')
 6. Exit the python console by running "exit()" command
 
-## RUNNING PROGRAM
+## RUNNING THE PROGRAM
 1. Open command prompt and move to chatbot directory
 2. Run "python main.py" to train a new model or "python main.py --modelTag pretrainedv2 --test interactive" to run the already trained chatbot
