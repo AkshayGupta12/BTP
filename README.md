@@ -1,5 +1,5 @@
 # Conversational Agent using RNN
-This repo contains the work done as part of the B.Tech project. 
+This repo contains the work done as part of the B.Tech project. We implemented a conversational agent which is trained on a dialog corpus. It is capable of having small natural language conversations with the user. It is based on a generative model and hence does not require predefined responses for having a conversation.
 ## Setup
 1. Install anaconda from the installer
 2. Open command prompt and run "pip install --ignore-installed --upgrade https://storage.googleapis.com/tensorflow/windows/cpu/tensorflow-1.1.0-cp35-cp35m-win_amd64.whl" command.
